@@ -63,6 +63,24 @@ We are using "yarn" instead of "npm" in this project.
 
 Go to the [milestones tab](../../milestone/1) to track your progress.
 
+#### Sprint #1
+
+- Acquire Training and Test dataset with images of invasive species and regular species and associated information.
+- Create Basic UI for user to be able to upload an image to
+- Research image recognition algorithms and start running isolated tests on smaller datasets.
+- Start off with one single species and make the algorithm able to differentiate between it and others.
+
+#### Sprint #2
+
+- Work further on the image recognition algorithm
+- Work on adding to the database (CRUD operations for species information)
+
+#### Sprint #3
+
+- Complete algorithm 
+- Spend the entire  rest of sprint working on a better UI for the website
+
+
 ## Project Overview
 
 ### Public URL
@@ -72,6 +90,9 @@ Go to the [milestones tab](../../milestone/1) to track your progress.
 ### Description
 
 **Required:** update [your repository](https://stackoverflow.com/questions/7757751/how-do-you-change-a-repository-description-on-github) with a short description of your project.
+
+
+
 
 ### Mockups
 
