@@ -98,6 +98,6 @@ Go to the [milestones tab](../../milestone/1) to track your progress.
 
 *View `README.md` to see how to replace me with mockups.*
 
-| ![Benjamin Bannekat](/mockups/github-cat.png) | ![Benjamin Bannekat](/mockups/github-cat.png) |
+| ![Uploading](/mockups/uploadspecies.jpg) | ![Submitting](/mockups/submitspecies.jpg) |
 | -------------------------------------------------------------------- | -------------------------------------------------------------------- |
-| ![Benjamin Bannekat](/mockups/github-cat.png) | ![Benjamin Bannekat](/mockups/github-cat.png) |
+| ![Benjamin Bannekat](/mockups/noninvasive.jpg) | ![Benjamin Bannekat](/mockups/invasive.jpg) |
